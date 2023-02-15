@@ -10,3 +10,8 @@ let myLibraryFunction;
 "Rashmi"  // String literal
 true      // Boolean literal
 null      // null literal value
+
+// STEP 3
+let complexExpression1 = (5 * 2) + 5 / 2;  
+
+let 
